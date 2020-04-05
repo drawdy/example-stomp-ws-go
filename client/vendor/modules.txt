@@ -1,0 +1,7 @@
+# github.com/drawdy/stomp-ws-go v1.0.0
+## explicit
+github.com/drawdy/stomp-ws-go
+github.com/drawdy/stomp-ws-go/senv
+# github.com/gorilla/websocket v1.4.2
+## explicit
+github.com/gorilla/websocket
